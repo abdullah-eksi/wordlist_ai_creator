@@ -1,8 +1,5 @@
 # Wordlist Creator - AI Destekli Şifre Kelime Listesi Oluşturucu
 
-Kişiselleştirilmiş wordlist oluşturmak için Google Gemini AI kullanılan Python uygulaması.
-
-## 📋 Proje Açıklaması
 
 Bu uygulama, kullanıcıların kişisel bilgileri doğrultusunda güvenlik testleri için özelleştirilmiş wordlist'ler oluşturur. Google Gemini AI modeli kullanarak akıllı kelime kombinasyonları üretir.
 
