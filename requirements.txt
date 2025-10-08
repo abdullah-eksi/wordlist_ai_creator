@@ -1,0 +1,13 @@
+# Wordlist Creator Gerekli Paketler
+
+# AI ve API
+google-generativeai>=0.3.0
+
+# Renk ve konsol
+colorama>=0.4.6
+
+# Ortam değişkenleri
+python-dotenv>=1.0.0
+
+# Veri işleme
+typing-extensions>=4.0.0
